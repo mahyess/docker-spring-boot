@@ -1,4 +1,4 @@
-# Amazon ECR Docker Helper 
+# Amazon ECR Docker Helper
 
 ![Amazon ECR logo](docs/ecr.png "Amazon ECR")
 
