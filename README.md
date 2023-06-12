@@ -4,7 +4,8 @@
 
 
 The Amazon ECR Docker Credential Helper is a
-[spring boot docker repo](https://github.com/Viyaan/docker-boot-ecs)
+[spring boot docker 
+repo](https://github.com/mahyess/docker-spring-boot)
 for the Docker daemon that makes it easier to use
 [Amazon Elastic Container Registry](https://aws.amazon.com/ecr/).
 
@@ -19,7 +20,9 @@ Build
 `docker build -t ecs-boot-repo .`
 
 Tag it
-`docker tag ecs-boot-repo:latest 455575310263.dkr.ecr.us-east-1.amazonaws.com/ecs-boot-repo:latest`
+`docker tag docker-spring-boot:latest 
+195916980817.dkr.ecr.us-east-1.amazonaws.com/docker-spring-boot:latest`
 
 Push the image
-`docker push 455575310263.dkr.ecr.us-east-1.amazonaws.com/ecs-boot-repo:latest`
+`docker push 
+195916980817.dkr.ecr.us-east-1.amazonaws.com/docker-spring-boot:latest`
