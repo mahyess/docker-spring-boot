@@ -2,7 +2,6 @@
 
 ![Amazon ECR logo](docs/ecr.png "Amazon ECR")
 
-
 The Amazon ECR Docker Credential Helper is a
 [spring boot docker 
 repo](https://github.com/mahyess/docker-spring-boot)
